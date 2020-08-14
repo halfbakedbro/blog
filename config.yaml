@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: A hobby content.
+  description: A hobby content | OS | System .
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
